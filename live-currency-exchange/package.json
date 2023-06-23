@@ -1,0 +1,43 @@
+{
+  "name": "live-currency-exchange",
+  "version": "1.0.2",
+  "description": "Get currency exchange rates from the European Central Bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "engines": {
+    "node": ">=7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tiborsaas/live-currency-exchange.git"
+  },
+  "keywords": [
+    "finance",
+    "currency",
+    "exchange",
+    "rate",
+    "api",
+    "bank"
+  ],
+  "author": "vivekimsit@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiborsaas/live-currency-exchange/issues"
+  },
+  "homepage": "https://github.com/tiborsaas/live-currency-exchange",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "xo": "^0.21.1"
+  },
+  "dependencies": {
+    "debug": "^3.1.0",
+    "got": "^8.3.1",
+    "joi": "^13.3.0",
+    "xmldoc": "^1.1.0"
+  },
+  "xo": {
+    "space": true
+  }
+}

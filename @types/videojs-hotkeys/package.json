@@ -1,0 +1,27 @@
+{
+    "name": "@types/videojs-hotkeys",
+    "version": "0.2.1",
+    "description": "TypeScript definitions for videojs-hotkeys",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/videojs-hotkeys",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "James Cote",
+            "url": "https://github.com/Coteh",
+            "githubUsername": "Coteh"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/videojs-hotkeys"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/video.js": "*"
+    },
+    "typesPublisherContentHash": "ac071fc02129ed0e6224da5a7bd41fc5c6225f42c4b1f59d3f534bbf402a8606",
+    "typeScriptVersion": "3.6"
+}
